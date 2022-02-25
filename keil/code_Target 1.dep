@@ -1,0 +1,20 @@
+Dependencies for Project 'code', Target 'Target 1': (DO NOT MODIFY !)
+CompilerVersion: 5060750::V5.06 update 6 (build 750)::.\ARMCC
+F (.\code_def.c)(0x621760C8)(-c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections-IE:\keil5\Arm\Packs\Keil\V2M-MPS2_CMx_BSP\1.7.0\Device\CMSDK_CM0\Include-IE:\keil5\ARM\CMSIS\Include-D__UVISION_VERSION="531" -DCMSDK_CM0-o .\code_def.o --omf_browse .\code_def.crf --depend .\code_def.d)
+I (code_def.h)(0x62007400)
+I (E:\keil5\ARM\ARMCC\include\stdint.h)(0x5EC775FC)
+I (E:\keil5\ARM\ARMCC\include\string.h)(0x5EC77604)
+I (E:\keil5\ARM\ARMCC\include\stdio.h)(0x5EC775FC)
+F (.\code_def.h)(0x62007400)()
+F (.\main.c)(0x62175CF3)(-c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections-IE:\keil5\Arm\Packs\Keil\V2M-MPS2_CMx_BSP\1.7.0\Device\CMSDK_CM0\Include-IE:\keil5\ARM\CMSIS\Include-D__UVISION_VERSION="531" -DCMSDK_CM0-o .\main.o --omf_browse .\main.crf --depend .\main.d)
+I (code_def.h)(0x62007400)
+I (E:\keil5\ARM\ARMCC\include\stdint.h)(0x5EC775FC)
+I (E:\keil5\ARM\ARMCC\include\stdio.h)(0x5EC775FC)
+F (.\startup_CMSDK_CM0.s)(0x61FBA966)(--cpu Cortex-M0 -g --apcs=interwork -IE:\keil5\Arm\Packs\Keil\V2M-MPS2_CMx_BSP\1.7.0\Device\CMSDK_CM0\Include-IE:\keil5\ARM\CMSIS\Include--pd "__UVISION_VERSION SETA 531" --pd "CMSDK_CM0 SETA 1"--list .\listings\startup_cmsdk_cm0.lst --xref -o .\startup_cmsdk_cm0.o --depend .\startup_cmsdk_cm0.d)
+F (.\Retarget.c)(0x61FB7E22)(-c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections-IE:\keil5\Arm\Packs\Keil\V2M-MPS2_CMx_BSP\1.7.0\Device\CMSDK_CM0\Include-IE:\keil5\ARM\CMSIS\Include-D__UVISION_VERSION="531" -DCMSDK_CM0-o .\retarget.o --omf_browse .\retarget.crf --depend .\retarget.d)
+I (E:\keil5\ARM\ARMCC\include\stdio.h)(0x5EC775FC)
+I (E:\keil5\ARM\ARMCC\include\time.h)(0x5EC775F2)
+I (E:\keil5\ARM\ARMCC\include\rt_misc.h)(0x5EC775F2)
+I (E:\keil5\ARM\ARMCC\include\stddef.h)(0x5EC775FC)
+I (E:\keil5\ARM\ARMCC\include\stdint.h)(0x5EC775FC)
+I (code_def.h)(0x62007400)
